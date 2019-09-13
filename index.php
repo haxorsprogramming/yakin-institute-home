@@ -42,7 +42,7 @@
           <div class="container">
             <div class="row">
               <div class="col-md-12 col-sm-12">
-    
+
                 <!-- Navigation -->
                 <nav class="navbar navbar-default">
                   <!-- Brand and toggle get grouped for better mobile display -->
@@ -67,25 +67,25 @@
                         <a class="page-scroll" href="#home">Home</a>
                       </li>
                       <li>
-                        <a class="page-scroll" href="#about">About</a>
+                        <a class="page-scroll" href="#about">Tentang</a>
                       </li>
                       <li>
-                        <a class="page-scroll" href="#services">Services</a>
+                        <a class="page-scroll" href="#services">Kegiatan</a>
                       </li>
                       <li>
-                        <a class="page-scroll" href="#team">Team</a>
+                        <a class="page-scroll" href="#team">Gallery</a>
                       </li>
                       <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                        <a class="page-scroll" href="#portfolio">Kontak</a>
                       </li>
-    
+
                       <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Drop Down<span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
                           <li><a href=# >Drop Down 1</a></li>
                           <li><a href=# >Drop Down 2</a></li>
-                        </ul> 
+                        </ul>
                       </li>
-    
+
                       <li>
                         <a class="page-scroll" href="#blog">Blog</a>
                       </li>
@@ -104,7 +104,7 @@
         <!-- header-area end -->
       </header>
       <!-- header end -->
-    
+
       <!-- Start Slider Area -->
       <div id="home" class="slider-area">
         <div class="bend niceties preview-2">
@@ -113,7 +113,7 @@
             <img src="ladun/img/slider/slider2.jpg" alt="" title="#slider-direction-2" />
             <img src="ladun/img/slider/slider3.jpg" alt="" title="#slider-direction-3" />
           </div>
-    
+
           <!-- direction 1 -->
           <div id="slider-direction-1" class="slider-direction slider-one">
             <div class="container">
@@ -138,7 +138,7 @@
               </div>
             </div>
           </div>
-    
+
           <!-- direction 2 -->
           <div id="slider-direction-2" class="slider-direction slider-two">
             <div class="container">
@@ -163,7 +163,7 @@
               </div>
             </div>
           </div>
-    
+
           <!-- direction 3 -->
           <div id="slider-direction-3" class="slider-direction slider-two">
             <div class="container">
@@ -191,7 +191,7 @@
         </div>
       </div>
       <!-- End Slider Area -->
-    
+
       <!-- Start About area -->
       <div id="about" class="about-area area-padding">
         <div class="container">
@@ -248,7 +248,7 @@
         </div>
       </div>
       <!-- End About area -->
-    
+
       <!-- Start Service area -->
       <div id="services" class="services-area area-padding">
         <div class="container">
@@ -369,7 +369,7 @@
         </div>
       </div>
       <!-- End Service area -->
-    
+
       <!-- our-skill-area start -->
       <div class="our-skill-area fix hidden-sm">
         <div class="test-overly"></div>
@@ -424,7 +424,7 @@
         </div>
       </div>
       <!-- our-skill-area end -->
-    
+
       <!-- Faq area start -->
       <div class="faq-area area-padding">
         <div class="container">
@@ -576,7 +576,7 @@
         </div>
       </div>
       <!-- End Faq Area -->
-    
+
       <!-- Start Wellcome Area -->
       <div class="wellcome-area">
         <div class="well-bg">
@@ -605,7 +605,7 @@
         </div>
       </div>
       <!-- End Wellcome Area -->
-    
+
       <!-- Start team Area -->
       <div id="team" class="our-team-area area-padding">
         <div class="container">
@@ -755,7 +755,7 @@
         </div>
       </div>
       <!-- End Team Area -->
-    
+
       <!-- Start reviews Area -->
       <div class="reviews-area hidden-xs">
         <div class="work-us">
@@ -772,7 +772,7 @@
         </div>
       </div>
       <!-- End reviews Area -->
-    
+
       <!-- Start portfolio Area -->
       <div id="portfolio" class="portfolio-area area-padding fix">
         <div class="container">
@@ -1204,7 +1204,7 @@
               </div>
             </div>
             <div class="row">
-    
+
               <!-- Start Google Map -->
               <div class="col-md-6 col-sm-6 col-xs-12">
                 <!-- Start Map -->
@@ -1212,7 +1212,7 @@
                 <!-- End Map -->
               </div>
               <!-- End Google Map -->
-    
+
               <!-- Start  contact -->
               <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="form contact-form">
@@ -1245,7 +1245,7 @@
         </div>
       </div>
       <!-- End Contact Area -->
-    
+
       <!-- Start Footer bottom Area -->
       <footer>
         <div class="footer-area">
@@ -1257,7 +1257,7 @@
                     <div class="footer-logo">
                       <h2><span>e</span>Business</h2>
                     </div>
-    
+
                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
                     <div class="footer-icons">
                       <ul>
@@ -1336,9 +1336,9 @@
           </div>
         </div>
       </footer>
-    
+
       <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-    
+
       <!-- JavaScript Libraries -->
       <script src="ladun/lib/jquery/jquery.min.js"></script>
       <script src="ladun/lib/bootstrap/js/bootstrap.min.js"></script>
@@ -1351,10 +1351,10 @@
       <script src="ladun/lib/nivo-slider/js/jquery.nivo.slider.js" type="text/javascript"></script>
       <script src="ladun/lib/appear/jquery.appear.js"></script>
       <script src="ladun/lib/isotope/isotope.pkgd.min.js"></script>
-    
+
       <!-- Contact Form JavaScript File -->
       <script src="contactform/contactform.js"></script>
-    
+
 
     <script src='ladun/js/main.js'></script>
     <script src='ladun/js/yakin.js'></script>
